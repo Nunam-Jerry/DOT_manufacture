@@ -3,4 +3,6 @@ checklist
 
 ### Features
 
-- [] Navigat to partsbox.com
+- [ ] Navigat to partsbox.com
+- [ ] Soutrick
+- [x] Mihir
