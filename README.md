@@ -9,7 +9,6 @@ checklist
 - [x] Nilesh
 - [x] Anirudh
 
-<ul>
-    <li><input type="checkbox" checked> First task</li>
-    <li><input type="checkbox"> Second task</li>
-</ul>
+
+    <input type="checkbox"> First task
+    <input type="checkbox"> Second task
