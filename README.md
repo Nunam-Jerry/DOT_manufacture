@@ -8,3 +8,8 @@ checklist
 - [x] Mihir
 - [x] Nilesh
 - [x] Anirudh
+
+<ul>
+    <li><input type="checkbox" checked> First task</li>
+    <li><input type="checkbox"> Second task</li>
+</ul>
