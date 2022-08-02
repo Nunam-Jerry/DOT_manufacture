@@ -1,4 +1,4 @@
 # DOT_manufacture
 checklist
 
-- [ ] Navigat to partsbox.com
+- [x] Navigat to partsbox.com
